@@ -1,0 +1,24 @@
+{
+  "index.html": {
+    "resources": [
+      "css/framework7.material.css",
+      "js/kitchen-sink.js",
+      "js/framework7.js",
+      "accordion.html",
+      "css/framework7.material.colors.css",
+      "css/kitchen-sink.css",
+      "img/i-f7-material.png",
+      "calendar.html",
+      "chips.html",
+      "cards.html",
+      "contacts.html",
+      "tabs.html",
+      "tabs-static.html",
+      "list-view.html",
+      "tabs-animated.html",
+      "messages.html",
+      "notifications.html",
+      "color-themes.html"
+    ]
+  }
+}

@@ -1,2 +1,19 @@
-# dcloud-framework7-material
-framework7å®˜æ–¹materialæ¨¡æ¿DEMOåœ¨dcoudé‡Œé¢æ‰“åŒ…çš„æ•ˆæœ
+#dcloud-framework7-material
+framework7¹Ù·½materialÄ£°åDEMOÔÚdcoudÀïÃæ´ò°üµÄĞ§¹û¡£
+
+###¹Ù·½ÍøÕ¾ÖĞÎÄ°æ£º
+
+<http://f7cn.com/>
+
+
+###ÖØĞ´ÁËÉè±¸µÄ·µ»Ø¼ü£º
+
+1¡¢Framework7µÄ²àÀ¸´ò¿ªÊ±¹Ø±Õ²àÀ¸£»
+
+2¡¢view¿ÉºóÍËÊ±Ö´ĞĞºóÍË£»
+
+3¡¢Ê×Ò³Á¬°´Á½´Î·µ»ØÍË³öÓ¦ÓÃ
+
+####unpackage/release/framework7-material.apkÎÄ¼şÎª´ò°üºÃµÄÓ¦ÓÃ£¬¿ÉÖ±½Ó°²×°
+
+ps£º×ÔĞĞ¼ÓÉÏÁËÍ¼±êºÍÆô¶¯½çÃæ£¬ÔüÔüPS¼¼Êõ£¬²»Òª´òÎÒ (?§Õ?)
